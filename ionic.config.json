@@ -1,0 +1,8 @@
+{
+  "name": "unix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "af542e8f"
+}
